@@ -65,7 +65,7 @@ public class Rectangulo {
 		int colorDeMomento = Teclado.leerInt("Indique el color (int): ");
 		int equis = Teclado.leerInt("Indique la x: ");
 		int ygriega = Teclado.leerInt("Indique la y: ");
-		if (ladoDeMomento1 != 0 || ladoDeMomento2 != 0 || colorDeMomento != 0) {
+		if (ladoDeMomento1 != 0 || ladoDeMomento2 != 0 || colorDeMomento != 0 || equis != 0 || ygriega != 0) {
 			setLadoLargo(ladoDeMomento1);
 			setLadoCorto(ladoDeMomento2);
 			setColor(colorDeMomento);
