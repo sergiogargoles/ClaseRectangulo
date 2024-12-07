@@ -73,7 +73,7 @@ public class Rectangulo {
 			this.centro.setY(ygriega);
 		}
 		
-		centro.leerDatos();
+		
 		
 		
 	}
